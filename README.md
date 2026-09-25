@@ -3,7 +3,7 @@
 **Материалы:**  
 | Задание | Код | скриншот |
 |---------|-----|----------|
-| Задание №3 | [task_03.php](https://github.com/MuratShaoev077756/PHP/blob/main/КТ2/task_3.php) | [task_03 скриншот.png](https://github.com/MuratShaoev077756/PHP/blob/main/КТ2/task3%20скриншот.png) |
+| Задание №3 | [task_03.php](https://github.com/MuratShaoev077756/PHP/blob/main/КТ2/task_3.php) | [task_03 скриншот.png](https://github.com/MuratShaoe077756/PHP/blob/main/КТ2/task3%20скриншот.png) |
 | Задание №4 | [task_04.php](https://github.com/MuratShaoev077756/PHP/blob/main/КТ2/task_4.php) | [task_04 скриншот.png](https://github.com/MuratShaoev077756/PHP/blob/main/КТ2/task4%20скриншот.png) |
 | Задание №5 | [task_05.php](https://github.com/MuratShaoev077756/PHP/blob/main/КТ2/task_5.php) | [task_05 скриншот.png](https://github.com/MuratShaoev077756/PHP/blob/main/КТ2/task5%20скриншот.png) |
 | Задание №6 | [task_06.php](https://github.com/MuratShaoev077756/PHP/blob/main/КТ2/task_6.php) | [task_06 скриншот.png](https://github.com/MuratShaoev077756/PHP/blob/main/КТ2/task6%20скриншот.png) |
